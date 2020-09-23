@@ -1,0 +1,12 @@
+name: cesm-dash
+channels:
+  - conda-forge
+dependencies:
+  - hvplot
+  - matplotlib
+  - pandas
+  - panel
+  - pip
+  - python=3.8
+  - pip:
+      - jupyter-panel-proxy

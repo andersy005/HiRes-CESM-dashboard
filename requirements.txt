@@ -1,0 +1,4 @@
+panel
+hvplot
+matplotlib
+pandas
