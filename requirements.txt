@@ -5,3 +5,4 @@ pandas
 jupyterlab
 fsspec
 s3fs
+psutil
