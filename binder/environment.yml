@@ -1,0 +1,17 @@
+name: cesm-dash
+channels:
+  - conda-forge
+dependencies:
+  - fsspec
+  - hvplot
+  - jupyter-server-proxy
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - panel
+  - pip
+  - python=3.8
+  - s3fs
+  - nbgitpuller
+  - pip:
+      - jupyter-panel-proxy
