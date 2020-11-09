@@ -14,4 +14,5 @@ dependencies:
   - s3fs
   - nbgitpuller
   - pip:
+      - git+https://github.com/andersy005/panelify.git
       - jupyter-panel-proxy
