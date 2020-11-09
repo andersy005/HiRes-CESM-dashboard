@@ -1,8 +1,5 @@
-panel
 hvplot
-matplotlib
-pandas
 jupyterlab
-fsspec
 s3fs
 psutil
+git+https://github.com/andersy005/panelify.git
